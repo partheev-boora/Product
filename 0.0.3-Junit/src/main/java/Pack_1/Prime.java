@@ -13,6 +13,5 @@ public class Prime {
 		else
 			b=false;
 		return b;
-}
-
+	}
 }
